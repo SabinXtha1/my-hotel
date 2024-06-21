@@ -1,0 +1,204 @@
+body{
+    background-color: black;
+    margin: 0px;
+}
+header{
+text-align: center;
+background-color: hsl(0, 0%, 50%);
+overflow: hidden;
+padding: 0%;
+margin:0%;
+width: 100%;
+height: auto;
+margin-top: -20px;
+}
+.fi.fi-br-menu-burger{
+    color: rgb(189, 235, 21);
+    font-size: 30px;
+    position: sticky;
+    padding: 10px 15px ;
+    cursor: pointer;
+    margin-top: 100px;
+    
+    }
+.navi a{
+    display: block;
+    color: bisque;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 20px;
+   
+}
+.content{
+    background-color: rgb(61, 82, 75);
+    position: absolute;
+    min-width: 100px;
+    box-shadow: 2px 2px 5px rgb(201, 187, 187);
+    display: none;
+    padding: 10px 15px;
+   
+}
+
+.navi:hover .content {
+    display: block;
+
+}
+.navi a:hover{
+    background-color: hsl(34, 78%, 100%);
+    color: black;
+}
+.navi{
+    display: inline-block;
+    margin-top: 10px;
+}
+.about{
+    color: aliceblue;
+    padding: 10px;
+    padding-bottom: 20px;
+    margin:30px;
+    text-align: center;
+    margin-top: -10px;
+font-size: larger;
+row-gap: 10px;
+column-gap: 10px;
+font-style: italic;
+font-weight: 400;
+}
+
+.about:active{
+    color: rgb(194, 141, 29);
+}
+.men{
+    color: rgb(214, 238, 151);
+    text-align: center;
+    size-adjust: 20px;
+    text-shadow: 2px 2px 5px yellow;
+    margin: 20px;
+    text-decoration:underline;
+
+}
+.momos{
+    color: rgb(236, 238, 240);
+    text-shadow: 2px 2px 5px yellow;
+    margin-top: -20px;
+    margin-right: 200px;
+
+}
+h1{
+    margin-right: 200px;
+    text-shadow: 2px 2px 5px yellow;
+}
+.ver{
+    color: aliceblue;
+    margin-left: 17%;
+    margin-top: -13px;
+    text-shadow: 2px 2px 5px yellow;
+}
+img{
+    width: 400px;
+    justify-content: center;
+   
+    filter: drop-shadow(5px 5px 10px rgb(156, 14, 14));
+    display:block;
+
+}
+.chaumin{
+    width: 400px;
+  border-radius: 50%;
+    transform: translateX(5%);
+    
+}
+.sausage{
+    border-radius: 50%;
+    width: 300px;
+    transform: translateX(5%);
+
+}
+.loli{
+    border-radius: 50%;
+    width: 300px;
+    transform: translateX(5%);
+
+}
+.lolis{
+    color: rgb(236, 238, 240);
+    margin-left: 10%;
+    margin-top: 10px;
+}
+.sausages{
+    color: rgb(236, 238, 240);
+    margin-left: 0%;
+    margin-top: 10px;
+}
+.khanas{
+    color: rgb(236, 238, 240);
+    margin-left: 10%;
+    margin-top: -10px;
+}
+.chaumins{
+    color: rgb(246, 247, 249);
+    margin-left: 0%;
+    margin-top: px;
+}
+.tea{
+    color: rgb(236, 238, 240);
+    margin-left: 0%;
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 300px;
+    transform: translateX(-5%);
+
+}.newar{
+    justify-content: center;
+    justify-content: center;
+    display: inline-block;
+   size-adjust: 20px;
+    
+
+}
+.teas{
+    color: aliceblue;
+   
+    
+}
+.head{
+    text-align: center;
+    transform: translateX(25%);
+    
+}
+.con{
+    color: aliceblue;
+}
+.cont{
+    display: block;
+    margin-top: -10px;
+    margin-left: -100px;
+    text-shadow: 2px 2px 5px yellow;
+
+}
+.con:hover {
+    color:red;
+}
+#location{
+   display: block;
+   
+}
+.cc{
+    color: red
+;
+}
+.sabin{
+    color: aliceblue;
+}
+.sanu{
+    color: aliceblue;
+}
+.mueya{
+    color: aliceblue;
+}
+th{
+    text-shadow: 2px 2px 5px yellow;
+}
+td{
+    text-shadow: 2px 2px 5px yellow;
+}
