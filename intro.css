@@ -8,9 +8,10 @@ background-color: hsl(0, 0%, 50%);
 overflow: hidden;
 padding: 0%;
 margin:0%;
-width: 100%;
-height: auto;
-margin-top: -20px;
+
+    margin-top: -20px;
+max-width: fit-content;
+min-width: 175%;
 }
 .fi.fi-br-menu-burger{
     color: rgb(189, 235, 21);
@@ -201,4 +202,8 @@ th{
 }
 td{
     text-shadow: 2px 2px 5px yellow;
+}
+.head{
+    text-align: center;
+  transform: translateX(-12%);
 }
